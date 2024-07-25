@@ -3,30 +3,30 @@
         "id": 1,
         "name": "Product 1",
         "description": "This is the description for product 1.",
-        "imageURL": "https://raw.githubusercontent.com/yourusername/ProductImages/main/product1.jpg"
+        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1040.png"
     },
     {
         "id": 2,
         "name": "Product 2",
         "description": "This is the description for product 2.",
-        "imageURL": "https://raw.githubusercontent.com/yourusername/ProductImages/main/product2.jpg"
+        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1043.png"
     },
     {
         "id": 3,
         "name": "Product 3",
         "description": "This is the description for product 3.",
-        "imageURL": "https://raw.githubusercontent.com/yourusername/ProductImages/main/product3.jpg"
+        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1046.png"
     },
     {
         "id": 4,
         "name": "Product 4",
         "description": "This is the description for product 4.",
-        "imageURL": "https://raw.githubusercontent.com/yourusername/ProductImages/main/product4.jpg"
+        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1050.png"
     },
     {
         "id": 5,
         "name": "Product 5",
         "description": "This is the description for product 5.",
-        "imageURL": "https://raw.githubusercontent.com/yourusername/ProductImages/main/product5.jpg"
+        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1051.png"
     }
 ]
