@@ -1,32 +1,63 @@
+
 [
     {
         "id": 1,
         "name": "Product 1",
         "description": "This is the description for product 1.",
-        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1040.png"
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1040.png?raw=true"
     },
     {
         "id": 2,
         "name": "Product 2",
         "description": "This is the description for product 2.",
-        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1043.png"
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1043.png?raw=true"
     },
     {
         "id": 3,
         "name": "Product 3",
         "description": "This is the description for product 3.",
-        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1046.png"
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1046.png?raw=true"
     },
     {
         "id": 4,
         "name": "Product 4",
         "description": "This is the description for product 4.",
-        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1050.png"
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1050.png?raw=true"
     },
     {
         "id": 5,
         "name": "Product 5",
         "description": "This is the description for product 5.",
-        "imageURL": "https://raw.githubusercontent.com/rbpawverse/ProductImages/main/IMG_1051.png"
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1051.png?raw=true"
+    }{
+        "id": 6,
+        "name": "Product 6",
+        "description": "This is the description for product 6.",
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1054.png?raw=true"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "description": "This is the description for product 7.",
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1055.png?raw=true"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "description": "This is the description for product 8.",
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1056.png?raw=true"
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "description": "This is the description for product 9.",
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1057.png?raw=true"
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "description": "This is the description for product 10.",
+        "imageURL": "https://github.com/rbpawverse/ProductImages/blob/main/IMG_1058.png?raw=true"
     }
 ]
+
